@@ -1,0 +1,22 @@
+{
+  "name": "log-file-reader",
+  "version": "0.0.1",
+  "description": "Realtime log file reading system",
+  "main": "server/index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "node-static": "^0.7.11",
+    "ws": "^7.3.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "webpack",
+    "es6"
+  ],
+  "author": "Sajal",
+  "devDependencies": {}
+}
